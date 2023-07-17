@@ -5,7 +5,7 @@ import { Idprovider, UserProvider } from './Context'
 const Parent = () => {
   return (
     <div>
-        <UserProvider value="Shivay Roy">
+        <UserProvider value="Shivay Roy kumar">
         <Idprovider value="Shivay@gamil.com">
         <Acomp/>
         </Idprovider>
